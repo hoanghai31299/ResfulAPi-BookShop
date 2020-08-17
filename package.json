@@ -1,0 +1,15 @@
+{
+    "name": "resful-api-bansach",
+    "version": "1.0.0",
+    "description": "xay dung api ban sach bang expressjs",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": 'nodemon --inspect index.js'
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
