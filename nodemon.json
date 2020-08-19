@@ -1,0 +1,11 @@
+{
+    "type": "node",
+    "request": "launch",
+    "name": "Next: Node",
+    "runtimeExecutable": "next",
+    "env": {
+        "NODE_OPTIONS": "--inspect"
+    },
+    "port": 9229,
+    "console": "integratedTerminal"
+}

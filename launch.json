@@ -1,0 +1,11 @@
+{
+    "type": "node",
+    "request": "launch",
+    "name": "Next: Node",
+    "runtimeExecutable": "${workspaceFolder}/node_modules/next/dist/bin/next",
+    "env": {
+      "NODE_OPTIONS": "--inspect-brk"
+    },
+    "port": 9229,
+    "console": "integratedTerminal"
+}
